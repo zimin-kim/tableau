@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+
+
+
+<response>
+<body>
+<dataTime>2021.07.28 24:00:00</dataTime>
+<items>
+<item>
+<tpcd>당일실적(A)</tpcd>
+<firstCnt>477853</firstCnt>
+<secondCnt>40086</secondCnt>
+</item>
+<item>
+<tpcd>전일누적(B)</tpcd>
+<firstCnt>17904284</firstCnt>
+<secondCnt>6978568</secondCnt>
+</item>
+<item>
+<tpcd>전체건수(C): (A)+(B)</tpcd>
+<firstCnt>18382137</firstCnt>
+<secondCnt>7018654</secondCnt>
+</item>
+</items>
+</body>
+</response>
+
+
